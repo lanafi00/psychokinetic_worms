@@ -1,3 +1,5 @@
+This project was awarded Best Use of Streamlit at UNC Pearl Hacks 2025.
+
 ## Inspiration
 My main inspiration was probably the chorus of worm voices echoing ominously in my mind.
 
